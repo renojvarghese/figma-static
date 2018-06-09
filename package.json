@@ -1,0 +1,19 @@
+{
+  "name": "figma-static",
+  "version": "1.0.0",
+  "description": "render figma documents as static html and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renojvarghese/figma-static.git"
+  },
+  "author": "Renoj Varghese",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renojvarghese/figma-static/issues"
+  },
+  "homepage": "https://github.com/renojvarghese/figma-static#readme"
+}
